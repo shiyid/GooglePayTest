@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "284005743049",
+    "firebase_url": "https://api-6263393345182813690-650809.firebaseio.com",
+    "project_id": "api-6263393345182813690-650809",
+    "storage_bucket": "api-6263393345182813690-650809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284005743049:android:d9fd3b1e900ccbe3",
+        "android_client_info": {
+          "package_name": "com.modo.hsjx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284005743049-pr6puf9rnh5s8vvrb1r38s2mtb5uhgnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modo.hsjx",
+            "certificate_hash": "37db504f3d8fbd43942d69ab6a3ff09766360709"
+          }
+        },
+        {
+          "client_id": "284005743049-0vtg4e2loq41fan55maqd1v249hcachl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modo.hsjx",
+            "certificate_hash": "24b2fbdc5c855824dd142a3b60c4b19ae06017cd"
+          }
+        },
+        {
+          "client_id": "284005743049-gdtl2nmftkh2qf5tnps3c4vgl6uskrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR-dfiQypkN7U-OF9MOHioleQjMKNhx4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284005743049-gdtl2nmftkh2qf5tnps3c4vgl6uskrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284005743049:android:741d7c645bc9cad7",
+        "android_client_info": {
+          "package_name": "com.modo.hsjx2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284005743049-duqk9om54sbkg9undb1pksq6aukokhbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modo.hsjx2",
+            "certificate_hash": "37db504f3d8fbd43942d69ab6a3ff09766360709"
+          }
+        },
+        {
+          "client_id": "284005743049-gdtl2nmftkh2qf5tnps3c4vgl6uskrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR-dfiQypkN7U-OF9MOHioleQjMKNhx4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284005743049-gdtl2nmftkh2qf5tnps3c4vgl6uskrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="color_a6aba8">#a6aba8</color>
+    <color name="color_004224">#004224</color>
+    <color name="color_7f8683">#7f8683</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color> <!--黑-->
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="list_transparent">#00000000</color><!-- 透明 -->
+    <color name="list_half_transparent">#a0000000</color><!-- 半透明 -->
+
+    <color name="main_color">#ffc603</color>
+    <color name="sec_main_color">#dead04</color>
+</resources>
